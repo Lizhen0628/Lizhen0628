@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lizhen0628
-- 👀 I’m interested in ...
+- 👋 Hi, I’m LiZhen
+- 👀 I’m interested in LOL
 - 🌱 I’m currently learning knowledge graph
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 16621660628@163.com
 
 <!---
