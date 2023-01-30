@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LiZhen
 - 👀 I’m interested in LOL
 - 🌱 I’m currently learning knowledge graph
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ md,要么卷死自己,要么卷死别人。fuck the ...
 - 📫 16621660628@163.com
 
 <!---
