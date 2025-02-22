@@ -1,5 +1,4 @@
-- 👋 Hi, I’m LiZhen
-- 🔭 I’m currently working on x, focusing on enhancing user experience by leveraging the generative capabilities of large models.
+- 🔭 I’m currently working on X, focusing on enhancing user experience by leveraging the generative capabilities of large models.
 - 🌱 I’m currently learning Spring Cloud to deepen my expertise in microservices architecture.
 - 👯 I’m looking to collaborate on open-source projects or innovative tech initiatives that push the boundaries of current tech.
 - 📫 How to reach me: You can find me via email at [email: 16621660628@163.com](mailto:16621660628@163.com).
